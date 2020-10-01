@@ -1,4 +1,4 @@
-EZ Community
+# EZ Community
 
 ## Key features
 
